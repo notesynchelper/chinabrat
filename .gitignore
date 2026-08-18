@@ -1,0 +1,9 @@
+node_modules/
+/main.js
+
+# 本地目录，不入库
+e2e/
+
+# README 只用到设置页那张截图
+/docs/shots/*
+!/docs/shots/shot-01-settings.png

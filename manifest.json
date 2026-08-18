@@ -1,0 +1,10 @@
+{
+  "id": "chinabrat",
+  "name": "China BRAT",
+  "version": "1.0.1",
+  "minAppVersion": "1.2.3",
+  "description": "Install add-ons straight from a URL that serves their files, with three ready-made examples.",
+  "author": "notesynchelper",
+  "authorUrl": "https://github.com/notesynchelper",
+  "isDesktopOnly": false
+}
